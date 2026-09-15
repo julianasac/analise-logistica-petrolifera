@@ -75,4 +75,4 @@ Modelação de dados · ETL · SQL (JOINs, CTEs, agregações, análise de corre
 ---
 
 **Autora:** Juliana Sacramento
-📧 juliana@jucasmile.com · 🔗 JulianaSacramaento-dados
+📧 juliana@jucasmile.com · 🔗https://www.linkedin.com/in/juliana-sacramento-dados/
