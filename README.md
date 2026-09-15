@@ -42,7 +42,7 @@ Esquema com chaves primárias/estrangeiras, ETL completo (resolução de formato
 **4. Dashboard interactivo — Power BI**
 Modelo relacional com 12 relações, medidas DAX (incluindo `TREATAS` para análise cruzada entre tabelas sem relação directa), 4 páginas organizadas por problema de negócio.
 
-## 📊 Dashboard https://app.powerbi.com/reportEmbed?reportId=208d2c40-586a-425f-9b8b-379e91a6d7aa&autoAuth=true&ctid=825b96b6-7a00-4287-9fda-d81c8e2dfcab
+## 📊 Dashboard 
 
 | Resumo Executivo | Ruturas de Stock |
 |---|---|
