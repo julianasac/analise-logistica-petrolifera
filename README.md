@@ -42,7 +42,7 @@ Esquema com chaves primárias/estrangeiras, ETL completo (resolução de formato
 **4. Dashboard interactivo — Power BI**
 Modelo relacional com 12 relações, medidas DAX (incluindo `TREATAS` para análise cruzada entre tabelas sem relação directa), 4 páginas organizadas por problema de negócio.
 
-## 📊 Dashboard 
+## 📊 Dashboard https://app.powerbi.com/view?r=eyJrIjoiZDYwMTlkMjgtZDcxZi00ZDJkLTgwNWUtZWFjYjA4OGQ2YmI4IiwidCI6IjgyNWI5NmI2LTdhMDAtNDI4Ny05ZmRhLWQ4MWM4ZTJkZmNhYiJ9&pageName=0f4b8832540f8dd32a56
 
 | Resumo Executivo | Ruturas de Stock |
 |---|---|
@@ -75,4 +75,4 @@ Modelação de dados · ETL · SQL (JOINs, CTEs, agregações, análise de corre
 ---
 
 **Autora:** Juliana Sacramento
-📧 juliana@jucasmile.com · 🔗https://www.linkedin.com/in/juliana-sacramento-dados/
+📧 juliana@jucasmile.com · 🔗https://www.linkedin.com/in/juliana-sacramento-dados/  https://app.powerbi.com/view?r=eyJrIjoiZDYwMTlkMjgtZDcxZi00ZDJkLTgwNWUtZWFjYjA4OGQ2YmI4IiwidCI6IjgyNWI5NmI2LTdhMDAtNDI4Ny05ZmRhLWQ4MWM4ZTJkZmNhYiJ9&pageName=0f4b8832540f8dd32a56
